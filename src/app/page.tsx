@@ -1,13 +1,9 @@
-import { main } from "framer-motion/client";
 import HeroSection from "@/components/HeroSection";
-import FeaturedProducts from "@/components/FeaturedProducts";
 import WhyChooseUs from "@/components/ui/WhyChooseUs";
 import Feedback from "@/components/feedback";
-import Creator from "@/components/Creator";
 import Image from "next/image";
 import background from "../app/background1.webp"
 import Footer from "@/components/Footer";
-import simple from "../app/SIMPLE.webp"
 import Page from "@/components/image";
 
 

@@ -2,8 +2,6 @@
 import Image from "next/image";
 import React from "react";
 import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
-import productData from "@/data/grocery.json"
-import night from "@/components/photos/kids night.webp"
 import Link from "next/link";
 import s1 from "../tshirt/photos/wdress1.webp"
 import s2 from "../tshirt/photos/wdress2.webp"

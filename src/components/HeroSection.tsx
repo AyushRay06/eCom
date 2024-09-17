@@ -1,7 +1,4 @@
-import Link from "next/link"
 import { Spotlight } from "./ui/Spotlight"
-import { Button } from "./ui/moving-border"
-import Image from "next/image"
 
 function HeroSection() {
     return (

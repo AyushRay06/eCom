@@ -1,7 +1,5 @@
-import { div } from "framer-motion/client";
 import { WavyBackground } from "./ui/wavy-background";
 import { AnimatedTooltip } from "./ui/animated-tooltip";
-import Image from "next/image";
 import mur from "../components/mur.jpeg";
 import rap from "../components/rap.jpg";
 

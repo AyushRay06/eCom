@@ -4,7 +4,6 @@ import React, { useState } from "react";
 import { HoveredLink, Menu, MenuItem, ProductItem } from "./ui/navbar-menu";
 import { cn } from "@/lib/utils";
 import Link from "next/link";
-import Image from "next/image";
 import shirt from "../components/photos/men shirt.webp"
 import pant from "../components/photos/men trouser.webp"
 import tshirt from "../components/photos/men tshirt.webp"
@@ -14,7 +13,6 @@ import dress from "../components/photos/women dress.webp"
 import wpant from "../components/photos/women trouser.webp"
 import wtux from "../components/photos/women suit.webp"
 import kdress from "../components/photos/kids dress.webp"
-import costume from "../components/photos/kids costume.webp"
 import onesie from "../components/photos/kids onesie.webp"
 import night from "../components/photos/kids night.webp"
 

@@ -1,8 +1,6 @@
 'use client'
-import { div } from "framer-motion/client";
 import productData from "../data/grocery.json"
 import Link from "next/link";
-import Image from "next/image";
 import { BackgroundGradient } from "./ui/background-gradient";
 
 interface Items{
